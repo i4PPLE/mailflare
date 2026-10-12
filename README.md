@@ -21,7 +21,7 @@ Mailflare is a self-hosted email inbox for custom domains, built on Cloudflare. 
 
 Want to support the mailflare? <a target="_blank" href="https://store.paymug.co/buy/mailflare-sponsor">Start sponsoring</a>
 
-## What you can do
+## What you can do?
 
 - **Domains**: Connect your Cloudflare domains and choose Cloudflare, Resend, or Amazon SES for each.
 - **Mailboxes**: Create personal or shared mailboxes and give other people access to them.
